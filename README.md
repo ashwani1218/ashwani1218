@@ -32,7 +32,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<<br>
+<br>
 
 <a href="https://github.com/ashwani1218">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani1218&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
