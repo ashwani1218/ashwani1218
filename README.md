@@ -35,9 +35,7 @@
 <br>
 <a href="https://github.com/braydoncoyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani1218&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-[![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwani1218)](https://github.com/anuraghazra/github-readme-stats)
+</a>[![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwani1218)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 Skills
 
