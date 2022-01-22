@@ -29,6 +29,7 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwani1218&repo=rest-api-go-example)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwani1218&repo=redis-spring)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwani1218&repo=Essense)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwani1218&repo=terraform_examples)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwani1218&repo=Kibana-docker-compose)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwani1218&repo=spring-graphql)
 
